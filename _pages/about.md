@@ -47,6 +47,7 @@ See my recent publications for more details.
 
 ## News
 
++ I received the National Scholarship for doctoral students.
 + One paper accepted by T-PAMI'24
 + One paper accepted by CVPR'24
 + I received the CCF-CV Academic Emerging Scholar Award in 2023.
