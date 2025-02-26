@@ -146,6 +146,13 @@ See my recent publications for more details.
 
 ## Preprint
 
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h4>   
+  <sub><p style="line-height:15px"> Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, Qibin Hou#, Ming-Ming Cheng#</p> 
+  <p style="line-height:15px"> <a href="https://arxiv.org/abs/2501.03775">[Arxiv]</a> <a href="https://github.com/YXB-NKU/Strip-R-CNN">[Code]</a></p>   
+  </sub>
+</blockquote>
+
 ## Academic Services
 
 + Reviewers for TPAMI/CVPR/NeurIPS/ICML/ICLR etc.
