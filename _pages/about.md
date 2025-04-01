@@ -106,7 +106,7 @@ See my recent publications for more details.
   <h4>Enhancing geometric factors in model learning and inference for object detection and instance segmentation</h4>   
   <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Dongwei Ren#, Wei Liu, Rongguang Ye, Qinghua Hu, Wangmeng Zuo</p> 
   <p style="line-height:15px">IEEE Transactions on Cybernetics (TCYB), 2022</p>   
-  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/9523600/">[Arxiv]</a> <a href="https://github.com/Zzh-tju/CIoU" class="redlink">[Code]</a> <b>Highly Cited Paper</b> </p>   
+  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/9523600/">[Arxiv]</a> <a href="https://github.com/Zzh-tju/CIoU" class="redlink">[Code]</a> <b>ESI Highly Cited Paper</b> </p>   
   </sub>
 </blockquote>
 
