@@ -19,19 +19,20 @@ redirect_from:
 
 ## About me
 
-Zhaohui Zheng received the M.S. degree in computational mathematics from Tianjin University in 2021, supervised by Prof. Ping Wang.
-He is currently a Ph.D. candidate at Media Computing Lab, Nankai University, supervised by Prof. Ming-Ming Cheng and co-supervised by Asso. Prof. Qibin Hou.
-His research interests include object detection, instance segmentation, and knowledge distillation.
+Zhaohui Zheng is currently a postdoctoral fellow at the HK PolyU, working on Visual-Language Models and object detection with Prof. [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
+Before that, he received his Ph.D. from Nankai University in 2025 under the supervision of Prof. [Ming-Ming Cheng](https://mmcheng.net/), and his M.S. degree in computational mathematics from Tianjin University in 2021 under the supervision of Prof. Ping Wang.
 He received the CCF-CV Academic Emerging Scholar Award in 2023.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
 ## Education
 
-2014 - 2018: <b>Applied mathematics</b> - Zhengzhou University, Zhengzhou, China
+2025 - 202X: <b>Department of Computing</b> - The HK PolyU, Hong Kong, China
+
+2021 - 2025: <b>Computer science</b> - Nankai University, Tianjin, China
 
 2018 - 2021: <b>Computational mathematics</b> - Tianjin University, Tianjin, China
 
-2021 - 2025: <b>Computer science</b> - Nankai University, Tianjin, China
+2014 - 2018: <b>Applied mathematics</b> - Zhengzhou University, Zhengzhou, China
 
 <span class='anchor' id='-education'></span>
 
@@ -163,3 +164,4 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
