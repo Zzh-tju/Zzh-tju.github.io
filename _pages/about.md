@@ -24,7 +24,7 @@ Before that, he received his Ph.D. from Nankai University in 2025 under the supe
 He received the CCF-CV Academic Emerging Scholar Award in 2023.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
-## Education
+## Professional Experience
 
 2025 - 202X: <b>Department of Computing</b> - The HK PolyU, Hong Kong, China
 
@@ -34,7 +34,7 @@ He received the CCF-CV Academic Emerging Scholar Award in 2023.
 
 2014 - 2018: <b>Applied mathematics</b> - Zhengzhou University, Zhengzhou, China
 
-<span class='anchor' id='-education'></span>
+<span class='anchor' id='-experience'></span>
 
 ## Research Interests
 
@@ -162,5 +162,6 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
 
