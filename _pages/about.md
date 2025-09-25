@@ -38,9 +38,7 @@ He received the CCF-CV Academic Emerging Scholar Award in 2023.
 
 ## Research Interests
 
-My research interests are object detection, instance segmentation, and knowledge distillation. 
-
-Specific directions: Loss function, Non-maximum suppression, Label assignment, Evaluation, Head network, and knowledge distillation in object detection.
+My research interests are Visual-Language Models, object detection, instance segmentation, and knowledge distillation. 
 
 See my recent publications for more details.
 
@@ -164,4 +162,5 @@ See my recent publications for more details.
 
 + CCF-CV Academic Emerging Scholar Award, 2023.
 + National Scholarship for doctoral students, 2024.
+
 
